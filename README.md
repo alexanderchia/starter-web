@@ -13,3 +13,6 @@ more stuff here
 
 
 more stuff
+
+## copyright stuff
+here you go
