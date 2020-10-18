@@ -10,9 +10,6 @@
 ## just some more random edits here
 
 more stuff here
-
-
-more stuff
-
+ edited this stuff here
 ## copyright stuff
 here you go
